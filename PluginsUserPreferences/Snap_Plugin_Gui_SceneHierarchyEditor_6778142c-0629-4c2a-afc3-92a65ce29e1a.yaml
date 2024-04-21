@@ -1,0 +1,544 @@
+PinnedEntities:
+  type: "std::vector<Es::Uuid>"
+  value:
+    size: 0
+  options: 4
+Collapsed State:
+  group:
+    066f5ad6-f752-4e63-9faa-c8b74421ce42:
+      type: bool
+      value: false
+      options: 0
+    071637b8-67bd-4985-bdd3-9498c49f37d3:
+      type: bool
+      value: false
+      options: 0
+    072c0a98-9c0d-4c96-b23e-3ab688860b9d:
+      type: bool
+      value: true
+      options: 0
+    0817e434-206f-4b64-9f3f-7273fdd51ce4:
+      type: bool
+      value: false
+      options: 0
+    085c3292-70ef-436b-a7db-89d86d3d46c9:
+      type: bool
+      value: false
+      options: 0
+    09b386dd-e5fb-47c1-8a2d-38d949800fd8:
+      type: bool
+      value: true
+      options: 0
+    0ef17e50-a3b0-4f08-9d4b-bf3f4bdaf901:
+      type: bool
+      value: true
+      options: 0
+    1438ebdd-4fd6-4475-8977-a731fba08284:
+      type: bool
+      value: false
+      options: 0
+    1497fcd3-f004-48b6-84e6-80fa192698c7:
+      type: bool
+      value: false
+      options: 0
+    15752b2d-f0f7-444e-a5a2-1aa351a4cd1a:
+      type: bool
+      value: false
+      options: 0
+    173846ab-bcd6-4d37-bcdd-735c3f65d49f:
+      type: bool
+      value: false
+      options: 0
+    195e485d-1cf7-4e50-9360-ab2efc4db13e:
+      type: bool
+      value: true
+      options: 0
+    1a277c91-b577-4a1a-90a0-ab75b9cd7e72:
+      type: bool
+      value: false
+      options: 0
+    1bd265ef-d872-43e1-83b0-097466545168:
+      type: bool
+      value: false
+      options: 0
+    1be0e986-475d-4f01-90b4-c370450f08a6:
+      type: bool
+      value: false
+      options: 0
+    1df0707c-e507-4fb6-9d89-138e497beb67:
+      type: bool
+      value: true
+      options: 0
+    1e3271e4-6432-449b-bc8a-9bc1d1692caa:
+      type: bool
+      value: false
+      options: 0
+    1ebfb3f0-5d9d-42ee-a195-0af1b6e88547:
+      type: bool
+      value: true
+      options: 0
+    1f869d89-cbe7-42c4-8be3-5f0de2929d1e:
+      type: bool
+      value: true
+      options: 0
+    26479edc-fd87-4199-8a56-64ef1102534b:
+      type: bool
+      value: true
+      options: 0
+    28180fa9-3d2a-4d69-b7f3-e46950c3231f:
+      type: bool
+      value: true
+      options: 0
+    296c0941-3354-4223-8c54-1f64f16a92fb:
+      type: bool
+      value: false
+      options: 0
+    2b1cfa22-6cdc-4981-87ed-db29abb3b845:
+      type: bool
+      value: false
+      options: 0
+    2de2635a-01a6-4e7e-820b-c289ee056a4e:
+      type: bool
+      value: false
+      options: 0
+    303e6df3-6450-42d3-afd2-09d76af4b85d:
+      type: bool
+      value: false
+      options: 0
+    33688b74-4853-4f0a-80e1-4c5d7227ea81:
+      type: bool
+      value: false
+      options: 0
+    35a0ee4e-143c-4957-8533-a984ac1af1ac:
+      type: bool
+      value: true
+      options: 0
+    3624e0ae-2991-41dd-b082-02f7e32adcb5:
+      type: bool
+      value: true
+      options: 0
+    367ad618-c81b-4e37-b503-5cb91694404d:
+      type: bool
+      value: false
+      options: 0
+    3a59c109-0586-4e69-87cb-f939d2bc91a5:
+      type: bool
+      value: false
+      options: 0
+    3b8d5aeb-4c39-402b-be3e-fa93f054a06e:
+      type: bool
+      value: false
+      options: 0
+    3e7c2195-4744-4350-8fbf-f15a3dd72ded:
+      type: bool
+      value: true
+      options: 0
+    3e98374d-9450-441b-b804-b29b76bc82fb:
+      type: bool
+      value: true
+      options: 0
+    3f8a03cf-11b8-4c4f-8d1d-46d7fa972380:
+      type: bool
+      value: true
+      options: 0
+    4028567a-7dcc-41e3-ab4f-5fb77799095f:
+      type: bool
+      value: false
+      options: 0
+    4059db48-8d5c-42f8-ae5e-bd4aa47bb360:
+      type: bool
+      value: false
+      options: 0
+    4147df41-7838-4f2c-a4bf-56fdb04e0c12:
+      type: bool
+      value: false
+      options: 0
+    44110209-0050-47cc-b564-f13ec8613e3a:
+      type: bool
+      value: true
+      options: 0
+    44cc8a36-7f7a-47f6-8ebd-318b1e792957:
+      type: bool
+      value: false
+      options: 0
+    47bfecb1-86b1-4217-bb0e-f20cd1538987:
+      type: bool
+      value: false
+      options: 0
+    4caa1062-043e-4a8f-a990-abd821555a8c:
+      type: bool
+      value: true
+      options: 0
+    4d1841c7-0e52-43a1-8f3e-0d10a77caf75:
+      type: bool
+      value: false
+      options: 0
+    4dcc9989-b1e7-4ab8-99b0-2d40bf8933b3:
+      type: bool
+      value: false
+      options: 0
+    4fe75cc3-3e2e-4cc5-a8c4-663b9bea76b7:
+      type: bool
+      value: false
+      options: 0
+    537147a2-6b0b-4d81-98d8-a7730d3842ed:
+      type: bool
+      value: false
+      options: 0
+    550758bc-6363-4964-b3e8-a4e84f18811b:
+      type: bool
+      value: true
+      options: 0
+    560b52fd-a456-49bd-b0bd-dbca1eca8111:
+      type: bool
+      value: false
+      options: 0
+    572e31ab-9680-43fd-89f3-af45be1dbf87:
+      type: bool
+      value: false
+      options: 0
+    5ccb2633-4a32-43af-bf1a-472222ace1f5:
+      type: bool
+      value: false
+      options: 0
+    5ffabd0a-4b8f-4a51-b01b-01871d74f5f5:
+      type: bool
+      value: false
+      options: 0
+    6043eb34-ee8c-4da0-ac48-47ffef9cc615:
+      type: bool
+      value: false
+      options: 0
+    61a79294-0860-4757-9118-5ca41e706dc6:
+      type: bool
+      value: false
+      options: 0
+    62385ad3-188e-43b2-bad4-30a8899cac28:
+      type: bool
+      value: false
+      options: 0
+    66af65b9-0285-4c2d-9be6-8c016c31723a:
+      type: bool
+      value: false
+      options: 0
+    67453029-c8e5-4724-89ab-3aea5d1e53b0:
+      type: bool
+      value: false
+      options: 0
+    69517e9d-3fa5-4497-ae5a-ba8c15016f59:
+      type: bool
+      value: false
+      options: 0
+    6afbf4bb-54f1-4475-a4ed-404c71240d5d:
+      type: bool
+      value: false
+      options: 0
+    6c2fdd28-6d4c-4188-96d6-7879f71f3946:
+      type: bool
+      value: false
+      options: 0
+    6cefb49e-b580-476b-98ff-2b83a312d459:
+      type: bool
+      value: false
+      options: 0
+    6dace75d-0275-4274-bcc0-5934aed65e9f:
+      type: bool
+      value: false
+      options: 0
+    6e12b6bc-a404-4146-8a0b-87473e3a8e46:
+      type: bool
+      value: true
+      options: 0
+    7086b3e0-416e-4595-b82f-fb58bb106973:
+      type: bool
+      value: false
+      options: 0
+    7129f78c-f7b3-47fb-bdfe-de93073267bb:
+      type: bool
+      value: false
+      options: 0
+    71b7c189-994a-422b-874e-010d9aad81b9:
+      type: bool
+      value: false
+      options: 0
+    7249d10c-2980-41bf-b413-8c16c450cbeb:
+      type: bool
+      value: true
+      options: 0
+    73e8947b-c347-4aa1-8820-c8c6cd46c8e6:
+      type: bool
+      value: false
+      options: 0
+    73eff39c-9c51-4592-bb97-2ecd8516ece9:
+      type: bool
+      value: false
+      options: 0
+    7794cb70-8c92-403c-8da1-00750a2db89f:
+      type: bool
+      value: false
+      options: 0
+    78d39350-fd89-4ae2-a352-16a83eb21774:
+      type: bool
+      value: false
+      options: 0
+    7aa93892-e306-4792-9e90-e2fb637c5992:
+      type: bool
+      value: true
+      options: 0
+    7e6f44c8-ef05-46c5-9822-1da1f64b0d88:
+      type: bool
+      value: false
+      options: 0
+    8335f29e-0287-4fe2-a7a5-4995a69bd272:
+      type: bool
+      value: true
+      options: 0
+    85013098-73e5-4876-87d0-fe740df80237:
+      type: bool
+      value: false
+      options: 0
+    87b923f0-0551-44a7-9e49-61485e728d87:
+      type: bool
+      value: false
+      options: 0
+    8de8f68c-7ef8-4cfa-8237-791efc85fe1d:
+      type: bool
+      value: false
+      options: 0
+    940cb225-3ba8-46a4-ba03-6182a7ce0a9d:
+      type: bool
+      value: true
+      options: 0
+    94934058-bf46-40d0-8186-86e0969f9242:
+      type: bool
+      value: false
+      options: 0
+    94a68a6b-70b9-4446-b270-d430982ae2b0:
+      type: bool
+      value: false
+      options: 0
+    965cf305-58e6-48bc-b25d-99951c9517a0:
+      type: bool
+      value: false
+      options: 0
+    9737c009-0800-4b28-8150-4c208f60072a:
+      type: bool
+      value: false
+      options: 0
+    989612c1-c5ac-41b4-9ae9-b74d4be601da:
+      type: bool
+      value: false
+      options: 0
+    989a0057-99f6-4cbe-9886-a420347395ca:
+      type: bool
+      value: false
+      options: 0
+    9a0ee6ad-35d8-4536-85cb-4e58e4e8440a:
+      type: bool
+      value: false
+      options: 0
+    9a88fbcd-24d5-4a82-9cad-80b6eb742697:
+      type: bool
+      value: false
+      options: 0
+    9b4a5a6b-9de8-447a-982f-20b0e6a28efd:
+      type: bool
+      value: false
+      options: 0
+    9bc86616-efd0-4f14-b300-1ec1a93ff4bf:
+      type: bool
+      value: true
+      options: 0
+    a0e6ce33-0f50-4e7e-be99-f4011b0e08d9:
+      type: bool
+      value: false
+      options: 0
+    a441477a-4c7d-4a96-9f0c-0c165a9732a4:
+      type: bool
+      value: true
+      options: 0
+    a61875a1-8d60-4a7b-884c-5ccc17e57eda:
+      type: bool
+      value: false
+      options: 0
+    a73d2755-7edb-4fad-8078-1897f8ed9749:
+      type: bool
+      value: false
+      options: 0
+    a92e809e-69d7-4787-9db7-01a5012d9af0:
+      type: bool
+      value: false
+      options: 0
+    a979725b-7e77-4671-a3b6-57e3aed08a75:
+      type: bool
+      value: false
+      options: 0
+    aa98ee0a-4ea7-4db9-971c-649adbcd8cb7:
+      type: bool
+      value: true
+      options: 0
+    ab09dba7-030b-4d40-b745-9e7ef2f20af9:
+      type: bool
+      value: false
+      options: 0
+    acf55893-44bb-4d5c-8814-982cf105b100:
+      type: bool
+      value: false
+      options: 0
+    aef1d58d-8e63-4b96-8e36-c7aba04b0115:
+      type: bool
+      value: true
+      options: 0
+    afcd0ad7-bfd4-4061-ba47-b9385c8fae38:
+      type: bool
+      value: false
+      options: 0
+    b02bfa6f-d786-4e18-bf17-d580ee6c2780:
+      type: bool
+      value: false
+      options: 0
+    b3bc10a1-2c19-41c5-98e9-7e6995b3f4cf:
+      type: bool
+      value: true
+      options: 0
+    b4e56dd5-9a09-44c9-b279-8829c3e28a6c:
+      type: bool
+      value: true
+      options: 0
+    b59d4648-291e-4f6e-af08-e296d050a1f2:
+      type: bool
+      value: true
+      options: 0
+    b6096597-bec7-44ae-8a24-10a0ae070c25:
+      type: bool
+      value: true
+      options: 0
+    b693bd4b-f0bb-43e8-8e39-09c4d41e98ab:
+      type: bool
+      value: false
+      options: 0
+    c08bdb29-dab1-4a3a-8f55-453af255cd00:
+      type: bool
+      value: true
+      options: 0
+    c533bcfc-8318-4437-abaa-e076a16f8fe3:
+      type: bool
+      value: true
+      options: 0
+    c59c220a-2c4a-4c87-955d-ec5ec62678d1:
+      type: bool
+      value: true
+      options: 0
+    c5bdb954-49f3-4c5e-be37-dd043d4cb29d:
+      type: bool
+      value: false
+      options: 0
+    ca38fb01-4a6f-4c42-be63-56a194436876:
+      type: bool
+      value: true
+      options: 0
+    ccfce5a9-16b1-4f5f-a490-8977a8fb3cf9:
+      type: bool
+      value: false
+      options: 0
+    cf6f0f5e-89f9-4280-a244-e1c9e3032613:
+      type: bool
+      value: true
+      options: 0
+    d1af899f-ca3e-429b-ad1f-0cfd4a7d2c04:
+      type: bool
+      value: false
+      options: 0
+    d1d37a55-f7fb-45df-9c66-80dcb4ced509:
+      type: bool
+      value: true
+      options: 0
+    dbad72d3-10e4-43bc-aa70-45e8cfbafac1:
+      type: bool
+      value: true
+      options: 0
+    dbd7a4b7-e91b-4857-b678-8ea6691dbfd0:
+      type: bool
+      value: false
+      options: 0
+    dfa8c2f4-4288-47fe-839d-2d230a905a6a:
+      type: bool
+      value: false
+      options: 0
+    e0cba2ae-8edb-4a70-8908-cbb4b0858193:
+      type: bool
+      value: true
+      options: 0
+    e1ec443b-0b29-45d9-9e97-b8349bc8a0db:
+      type: bool
+      value: false
+      options: 0
+    e65247db-ded4-4e80-9a8b-2551e93d3e7f:
+      type: bool
+      value: false
+      options: 0
+    e72099dc-824c-4e3b-9433-75d155c4d7be:
+      type: bool
+      value: false
+      options: 0
+    ea578656-661c-4d93-a856-fcf75bcea28c:
+      type: bool
+      value: false
+      options: 0
+    ea73e64d-17e3-4c75-93da-9a61d2eccd96:
+      type: bool
+      value: false
+      options: 0
+    ed1c982a-69be-4551-9fbb-6d7cd0af8910:
+      type: bool
+      value: false
+      options: 0
+    edf22c1d-4bda-4588-bc75-b1a82562f466:
+      type: bool
+      value: false
+      options: 0
+    ee2abaad-3f3e-4fe2-94a7-eac562c701f0:
+      type: bool
+      value: false
+      options: 0
+    ef570d16-033c-4572-b5de-6fdfb6786df2:
+      type: bool
+      value: true
+      options: 0
+    ef843553-a9d8-4a1f-9ddd-43bb4a8d4d2d:
+      type: bool
+      value: false
+      options: 0
+    f21cbdea-11a4-4824-88f0-00c37fee2ebf:
+      type: bool
+      value: true
+      options: 0
+    f2b74469-48df-40ae-bc4f-04f91ddf8c25:
+      type: bool
+      value: true
+      options: 0
+    f430c00f-fe53-4679-b3f2-c52a8b6c01d1:
+      type: bool
+      value: false
+      options: 0
+    f53fd7e8-69d8-4a94-9196-5dd68087da17:
+      type: bool
+      value: false
+      options: 0
+    f6f8c0ad-a139-4b3c-a695-f8570f4c3535:
+      type: bool
+      value: false
+      options: 0
+    f7f5a297-9294-44c7-9e3f-43dc2ab22f8e:
+      type: bool
+      value: true
+      options: 0
+    fa0eafa7-0266-48e2-89c4-6feef41b9914:
+      type: bool
+      value: false
+      options: 0
+    ff0ad709-f0ad-4e0e-aa19-20b2a4918cdc:
+      type: bool
+      value: false
+      options: 0
+  options: 4

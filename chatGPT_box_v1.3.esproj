@@ -1,0 +1,32 @@
+studioVersion:
+  major: 5
+  minor: 0
+  patch: 8
+  build: 24031921
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: iPhone 14 Pro
+    cameraFov: 45.71
+    fullFrameAspect: 0.5625
+    viewport: Normal
+    output: Live
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  lensName: Mindscape_1
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+    - Spectacles
+  iconHash: c944498e76f97ddf0a77fa7ac1c6aac1
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.0.8.24031921
+  activationCamera: Rear
+  hasVideoPreview: true
+  apiAccessLevel: Public

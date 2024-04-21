@@ -1,0 +1,403 @@
+Collapsed State:
+  group:
+    Behavior:
+      type: bool
+      value: true
+      options: 0
+    Behavior/Behavior.js:
+      type: bool
+      value: true
+      options: 0
+    Behavior/Behavior.prefab:
+      type: bool
+      value: true
+      options: 0
+    ChatGPT_Helper:
+      type: bool
+      value: true
+      options: 0
+    ChatGPT_Helper/ChatGPT API:
+      type: bool
+      value: false
+      options: 0
+    ChatGPT_Helper/ChatGPT API/ChatGPT Helper:
+      type: bool
+      value: true
+      options: 0
+    ChatGPT_Helper/ChatGPT API/ChatGPT Helper/ChatGPT Helper.lsc:
+      type: bool
+      value: true
+      options: 0
+    ChatGPT_Helper/ChatGPT API/main.js:
+      type: bool
+      value: true
+      options: 0
+    ChatGPT_Helper/ChatGPT_Helper.prefab:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/.hidden:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/.hidden/Default Hands.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Hand Tracking Assets:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Hand Tracking Assets/Left Hand Tracking Asset.handTracking3D:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Hand Tracking Assets/Right Hand Tracking Asset.handTracking3D:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Materials:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Materials/Default Hands.mat:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/LeftHandModel:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/LeftHandModel/Meshes:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/LeftHandModel/Meshes/LeftHandMesh.mesh:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/RightHandModel:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/RightHandModel/Meshes:
+      type: bool
+      value: true
+      options: 0
+    Default_3D_Hands__PUT_UNDER_MAIN_CAM/Default 3D Hands Resources/Models/RightHandModel/Meshes/RightHandMesh.mesh:
+      type: bool
+      value: true
+      options: 0
+    Device Camera Texture.deviceCameraTexture:
+      type: bool
+      value: false
+      options: 0
+    Fontspring-rocgrotesk-medium.otf:
+      type: bool
+      value: true
+      options: 0
+    Hand Segmentation Texture.objectTrackingTexture:
+      type: bool
+      value: true
+      options: 0
+    Materials:
+      type: bool
+      value: true
+      options: 0
+    Materials/Image 2.mat:
+      type: bool
+      value: true
+      options: 0
+    Materials/flat 1.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    Materials/flat.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    Materials/hand.mat:
+      type: bool
+      value: true
+      options: 0
+    Materials/transp.mat:
+      type: bool
+      value: true
+      options: 0
+    Materials/unlit.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    Plane.mesh:
+      type: bool
+      value: true
+      options: 0
+    ROMANAB.TTF:
+      type: bool
+      value: true
+      options: 0
+    Render Target.renderTarget:
+      type: bool
+      value: false
+      options: 0
+    Scene.scene:
+      type: bool
+      value: false
+      options: 0
+    TweenManager:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden/Image Unlit.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/.hidden/TweenBoxDiffuse.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/Tween.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenManager.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenAlpha.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenColor.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenScreenTransform.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenTransform.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/Tween/TweenTypes/TweenValue.js:
+      type: bool
+      value: true
+      options: 0
+    TweenManager/TweenManager.prefab:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController:
+      type: bool
+      value: false
+      options: 0
+    WorldObjectController/.hidden:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Textures:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Textures/Base.png:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Textures/MaterialParams.png:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Textures/Normal.png:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Uber PBR.lsmat.mat:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/Uber PBR1.lsmat.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/graph_matte_shadow.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/ground_grid.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/.hidden/touch_collision.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController:
+      type: bool
+      value: false
+      options: 0
+    WorldObjectController/WorldObjectController.prefab:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Materials:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Materials/graph_matte_shadow.mat:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Materials/ground_grid.mat:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Materials/touch_collision.mat:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Meshes:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Meshes/Sphere.mesh:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Meshes/plane.mesh:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Meshes/touch_collision_cube.mesh:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Scripts:
+      type: bool
+      value: false
+      options: 0
+    WorldObjectController/WorldObjectController/Scripts/WorldObjectController.js:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Textures:
+      type: bool
+      value: true
+      options: 0
+    WorldObjectController/WorldObjectController/Textures/ground_grid.png:
+      type: bool
+      value: true
+      options: 0
+    bust.mp3:
+      type: bool
+      value: false
+      options: 0
+    env:
+      type: bool
+      value: true
+      options: 0
+    env/Diff.jpeg:
+      type: bool
+      value: true
+      options: 0
+    env/Specular.jpeg:
+      type: bool
+      value: true
+      options: 0
+    fire3-sprite-explosao-png.png:
+      type: bool
+      value: false
+      options: 0
+    glow1-4.png:
+      type: bool
+      value: true
+      options: 0
+    pop-goes-the-weasel-chiptune1_8mRPqMgS.mp3:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/.hidden:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/.hidden/Cube:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Materials:
+      type: bool
+      value: false
+      options: 0
+    qbox2.glb/Materials/Cube:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Materials/Cube1:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Materials/Metal:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Meshes:
+      type: bool
+      value: false
+      options: 0
+    qbox2.glb/Meshes/Circle.001:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Meshes/Circle.002:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Meshes/Plane.010:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Textures:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Textures/Cube:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/Textures/Cube 2:
+      type: bool
+      value: true
+      options: 0
+    qbox2.glb/qbox2:
+      type: bool
+      value: true
+      options: 0
+  options: 4

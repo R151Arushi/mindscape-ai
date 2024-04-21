@@ -1,0 +1,35 @@
+- !<AssetImportMetadata/c9727271-de11-46ea-ad32-e313c3661b4d>
+  ImportedAssetIds:
+    JavaScriptAsset: 43572338-e40a-462b-be16-41442a465a54
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 43572338-e40a-462b-be16-41442a465a54
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6bc50270-266e-49ae-b723-afee412f6199
+  ImporterSettings: !<AssetImporterSettings/6c11ee08-ca3c-4e99-b621-618db03ed553>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/6bc50270-266e-49ae-b723-afee412f6199>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    groundGrid: false
+    touchCollisionMaterial: false
+    worldTrackingComponent: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - touchCollisionMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      groundGrid: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      worldTrackingComponent: !<reference.DeviceTracking> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

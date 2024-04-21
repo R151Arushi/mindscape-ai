@@ -1,0 +1,10 @@
+- !<AssetCache/666c30e9-df7a-425f-9efe-2d13b2c91401>
+  AssetFiles:
+    41e87fb7-cf2a-4549-8094-40faaeb710df: 9a98de8e-4007-458b-aa3f-6219373c71cf/f602612ff24d986fb3710896d81f5e0d/Data/RightHandMesh.mesh
+  AssetCurrentFiles:
+    41e87fb7-cf2a-4549-8094-40faaeb710df: 9a98de8e-4007-458b-aa3f-6219373c71cf/f602612ff24d986fb3710896d81f5e0d/Data/RightHandMesh.mesh
+  Assets:
+    - !<FileMesh/41e87fb7-cf2a-4549-8094-40faaeb710df>
+      PackagePath: ""
+  SourceHash: f602612ff24d986fb3710896d81f5e0d
+  FileHash: 763aee9f7912d589552517e8d51a98cc

@@ -1,0 +1,11 @@
+- !<AssetImportMetadata/22c1c388-f982-490b-8fe2-33133c7d05d6>
+  ImportedAssetIds:
+    Pass: 7ed6e4ce-1ab6-428b-8864-b8262c344b7d
+  ImporterName: PassImporter
+  PrimaryAsset: !<reference> 7ed6e4ce-1ab6-428b-8864-b8262c344b7d
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  ImporterSettings: !<AssetImporterSettings/45bc0444-da9f-4133-9c10-00ae7a8efa86>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

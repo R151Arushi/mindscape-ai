@@ -1,0 +1,101 @@
+- !<AssetCache/c2786ee4-350b-43dc-b726-4ac6b8617a56>
+  AssetFiles:
+    {}
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<ObjectPrefab/69301b1e-a5e8-4c95-b2c9-98e0f79cbd03>
+      LazyLoading: false
+      RetainAssets: true
+      objects:
+        - !<own> 1eefb916-be5b-4508-98a0-e3788cb03b23
+      PackagePath: ""
+    - !<ObjectTrackingAsset/ec1cf231-ddc0-4190-9083-45daa094f2c5>
+      DeviceDependentAssetId: LENSCORE_OBJECT3D_TWO_HANDS_MODEL
+      PackagePath: .hidden/Asset.ObjectTrackingAsset
+    - !<ObjectTrackingAsset/bc83f099-0491-467d-9cf5-7aae7cd0c160>
+      DeviceDependentAssetId: LENSCORE_OBJECT3D_TWO_HANDS_MODEL
+      PackagePath: .hidden/Asset1.ObjectTrackingAsset
+    - !<HandTracking3DAsset/c5113617-ac9c-40ef-a00a-267095349236>
+      HandType: Left
+      TrackingMode: SingleHand
+      AttachmentPoints:
+        []
+      PackagePath: 3D Hand Tracking Assets/Hand Tracking Asset Left
+    - !<HandTracking3DAsset/53ba9114-d87e-48cb-9f0d-f054e087337a>
+      HandType: Right
+      TrackingMode: Human3D
+      AttachmentPoints:
+        []
+      PackagePath: 3D Hand Tracking Assets/Hand Tracking Asset Right
+  SourceHash: 40e737d2b90119ed9b7c34f6d440a22c
+  FileHash: aa1acd387d4c8fe9bc5a4265680c878f
+- !<SceneObject/1eefb916-be5b-4508-98a0-e3788cb03b23>
+  Name: 3D Hand Tracking
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    - !<own> b8bdcc25-f03f-4c77-a5aa-8b7acdaac140
+    - !<own> e1062ff1-4b0c-4356-a13a-da4196d09ef8
+  Components:
+    []
+  PrefabRemaps:
+    []
+- !<ObjectTracking3D/929cfadb-ff00-465a-9ee1-04d99ddfecba>
+  ObjectIndex: 0
+  TrackingMode: ProportionsAndPose
+  TrackPosition: true
+  TrackingAsset: !<reference> c5113617-ac9c-40ef-a00a-267095349236
+  AttachmentLabels:
+    []
+  AttachedObjects:
+    []
+  Name: Object Tracking 3D
+  Enabled: true
+  PrefabRemaps:
+    []
+- !<SceneObject/b8bdcc25-f03f-4c77-a5aa-8b7acdaac140>
+  Name: 3D Hand Tracking Right
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: -80}
+    rotation: {x: 0, y: -0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    []
+  Components:
+    - !<own> d0ad7917-bdb3-4789-b106-06fae062f14f
+  PrefabRemaps:
+    []
+- !<ObjectTracking3D/d0ad7917-bdb3-4789-b106-06fae062f14f>
+  ObjectIndex: 0
+  TrackingMode: ProportionsAndPose
+  TrackPosition: true
+  TrackingAsset: !<reference> 53ba9114-d87e-48cb-9f0d-f054e087337a
+  AttachmentLabels:
+    []
+  AttachedObjects:
+    []
+  Name: Object Tracking 3D
+  Enabled: true
+  PrefabRemaps:
+    []
+- !<SceneObject/e1062ff1-4b0c-4356-a13a-da4196d09ef8>
+  Name: 3D Hand Tracking Left
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: -80}
+    rotation: {x: 0, y: -0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    []
+  Components:
+    - !<own> 929cfadb-ff00-465a-9ee1-04d99ddfecba
+  PrefabRemaps:
+    []

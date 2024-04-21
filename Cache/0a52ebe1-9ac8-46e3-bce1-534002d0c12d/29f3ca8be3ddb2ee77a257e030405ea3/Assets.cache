@@ -1,0 +1,10 @@
+- !<AssetCache/93b7e935-3d75-4766-80ca-27b78b3f38a5>
+  AssetFiles:
+    a1b118c0-f46c-4e03-a13e-c58ca98b011c: 0a52ebe1-9ac8-46e3-bce1-534002d0c12d/29f3ca8be3ddb2ee77a257e030405ea3/Data/ROMANAB.TTF
+  AssetCurrentFiles:
+    a1b118c0-f46c-4e03-a13e-c58ca98b011c: 0a52ebe1-9ac8-46e3-bce1-534002d0c12d/29f3ca8be3ddb2ee77a257e030405ea3/Data/ROMANAB.TTF
+  Assets:
+    - !<Font/a1b118c0-f46c-4e03-a13e-c58ca98b011c>
+      PackagePath: ""
+  SourceHash: 29f3ca8be3ddb2ee77a257e030405ea3
+  FileHash: a9910a4f2e1b51579d28079ca8a4ed71

@@ -1,0 +1,10 @@
+- !<AssetCache/e1e605ad-36b5-4e2c-b242-e99fc71456dc>
+  AssetFiles:
+    002a1ec3-44c1-4a46-8d3c-ad35f248efb4: 30fe480c-863f-4798-83ad-6fd879c95999/658d39ab80a5f7e6c54e6806c67ec7c5/Data/bust.mp3
+  AssetCurrentFiles:
+    002a1ec3-44c1-4a46-8d3c-ad35f248efb4: 30fe480c-863f-4798-83ad-6fd879c95999/658d39ab80a5f7e6c54e6806c67ec7c5/Data/bust.mp3
+  Assets:
+    - !<FileAudioTrack/002a1ec3-44c1-4a46-8d3c-ad35f248efb4>
+      PackagePath: ""
+  SourceHash: 658d39ab80a5f7e6c54e6806c67ec7c5
+  FileHash: 69c6a5f5235759791a5aad6cf129e3b3

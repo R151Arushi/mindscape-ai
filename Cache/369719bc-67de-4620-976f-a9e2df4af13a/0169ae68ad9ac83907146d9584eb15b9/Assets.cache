@@ -1,0 +1,10 @@
+- !<AssetCache/a2bb464c-18a0-4ddb-a76a-37ca19a27bdf>
+  AssetFiles:
+    b41d6be7-7260-4266-8c38-7c5aa1001b4d: 369719bc-67de-4620-976f-a9e2df4af13a/0169ae68ad9ac83907146d9584eb15b9/Data/plane.mesh
+  AssetCurrentFiles:
+    b41d6be7-7260-4266-8c38-7c5aa1001b4d: 369719bc-67de-4620-976f-a9e2df4af13a/0169ae68ad9ac83907146d9584eb15b9/Data/plane.mesh
+  Assets:
+    - !<FileMesh/b41d6be7-7260-4266-8c38-7c5aa1001b4d>
+      PackagePath: ""
+  SourceHash: 0169ae68ad9ac83907146d9584eb15b9
+  FileHash: 73aaa8cc578d0d5ca8e179d8784843b8

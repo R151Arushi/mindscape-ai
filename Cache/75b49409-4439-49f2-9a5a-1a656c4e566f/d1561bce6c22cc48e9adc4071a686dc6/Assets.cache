@@ -1,0 +1,10 @@
+- !<AssetCache/ee4504cb-30b8-4cbc-bb10-079f385b9f7a>
+  AssetFiles:
+    68fccab4-70e5-47a2-ad22-6f3eae2b4fc5: 75b49409-4439-49f2-9a5a-1a656c4e566f/d1561bce6c22cc48e9adc4071a686dc6/Data/Sphere.mesh
+  AssetCurrentFiles:
+    68fccab4-70e5-47a2-ad22-6f3eae2b4fc5: 75b49409-4439-49f2-9a5a-1a656c4e566f/d1561bce6c22cc48e9adc4071a686dc6/Data/Sphere.mesh
+  Assets:
+    - !<FileMesh/68fccab4-70e5-47a2-ad22-6f3eae2b4fc5>
+      PackagePath: ""
+  SourceHash: d1561bce6c22cc48e9adc4071a686dc6
+  FileHash: 5aeaa858b35f3c2f1826206a6d4d301e

@@ -1,0 +1,12 @@
+- !<AssetCache/9478f904-3e35-4d0c-bcbf-24dfc0ecba6f>
+  AssetFiles:
+    be1da305-c0db-47a6-92dd-24a787bfb513: bc7fa9f0-3e16-43b5-a196-1c9d84060b81/e8ab2f50a655fb29b81ddc3fa6497e0a/Data/ground_grid.png
+  AssetCurrentFiles:
+    be1da305-c0db-47a6-92dd-24a787bfb513: bc7fa9f0-3e16-43b5-a196-1c9d84060b81/e8ab2f50a655fb29b81ddc3fa6497e0a/Data/ground_grid_Medium.png
+  Assets:
+    - !<FileTexture/be1da305-c0db-47a6-92dd-24a787bfb513>
+      Width: 512
+      Height: 512
+      PackagePath: ""
+  SourceHash: e8ab2f50a655fb29b81ddc3fa6497e0a
+  FileHash: 2849a78ddb265c6e4d0c06aa857ad18d

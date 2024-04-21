@@ -1,0 +1,52 @@
+- !<AssetImportMetadata/80c178b2-84db-4f98-b5bb-df7814b5569a>
+  ImportedAssetIds:
+    .hidden/Cube: 1e6f7837-4709-4e8e-ac3b-3fca08dccec1
+    Materials/Cube: 214b767c-f25f-4f68-b38f-73073b016524
+    Materials/Cube1: 16996387-b878-43db-812f-1aff93c0eb24
+    Materials/Cube|Cube1|GraphPassInfo: d99eb670-74f3-470a-8a43-ef12aa5ab9ce
+    Materials/Cube|Cube|GraphPassInfo: facaa76e-a820-494f-b3df-f2184ec499d5
+    Materials/Metal: e6fb7ef6-2dde-4c77-9e15-dd3a22d45f5c
+    Materials/Metal|Metal|GraphPassInfo: a8fc6559-57e7-407a-9052-51b8d88d9c72
+    Meshes/Circle.001: c7a6c1c2-9813-4ff3-8e56-51194d437f8c
+    Meshes/Circle.002: ec052a1f-5699-4893-a24f-5e4f7ac131ab
+    Meshes/Plane.010: 0028305a-5d33-43c0-9542-2a616fe2a1f2
+    Scene: 88abb173-3803-4a81-967d-31998f533d94
+    Textures/Cube: f34b23e7-29e1-429a-b815-a6314a6bb50c
+    Textures/Cube 2: 1e760f5a-78d9-4837-90d1-724ecf207f5d
+    _3DSceneImportRoot_0|: c1ab0323-219a-4935-afe8-da35103ad985
+    _3DSceneImportRoot_0|_Scenes_0|: f4b2efd2-063b-42c7-aa7d-7c3c73ff1bd5
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|: 286439cc-f24b-4b36-ae4d-8c355176cdfe
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|: 314d109c-451a-40be-a215-5296bbc48951
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|_Lever_0|: 6ec1b505-9805-4612-9d52-f82121ff50ef
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|_Lever_0|_Lever Handle_0|: 45632a40-e2f0-4877-8fd3-8c4b759a9504
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|_Lever_0|_Lever Handle_0|_RenderMeshVisual_0|: 39da3106-bb06-4134-98eb-453587bfdaad
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|_Lever_0|_RenderMeshVisual_0|: cbe9174e-1cb6-4b92-9455-231d403ba535
+    _3DSceneImportRoot_0|_Scenes_0|_Scene_0|_Cube_0|_RenderMeshVisual_0|: 86288f08-c739-4d2f-96b0-9e32bb7411bf
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 88abb173-3803-4a81-967d-31998f533d94
+  PackageType: CanBeUnpacked
+  AssetDataMap:
+    {}
+  ImporterSettings: !<GltfImporterSettings/daf6dc72-bc90-4865-b9cb-8e8d87a0bfd2>
+    ImportTangents: true
+    ImportMorphTargetAnimation: false
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+    ImportVertexColor: true
+    AnimationCurveOptimization: false
+    CustomAnimationSamplingRate: 30
+    NamingConvention: ByCategory
+  CompressionSettings: !<ComplexCompressionSettings/e611df0e-87c4-4210-8bc3-1362e1dcf9a9>
+    Presets:
+      None Compression: !<SingleCompressionSettings/ca86c099-bb4b-4cd7-b29f-82e4fc2cd308>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Size Compression: !<SingleCompressionSettings/117ed89b-6adb-4c58-bdc4-e0290044c9c4>
+        CompressorName: Size
+        CompressionSettings: !<TextureCompressionSettings/fef7806c-d47a-4926-b88a-6c1345dde5d7>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Size Compression
+    Overrides:
+      {}

@@ -1,0 +1,12 @@
+- !<AssetCache/9fb09fc4-2c8c-4636-9b69-6f801eaa89d6>
+  AssetFiles:
+    7a82fc1c-fea8-4020-bb8d-129084769739: c8fd3820-7284-4db3-bc77-95879a776189/2c57befc457a320a1e68562a106b8912/Data/Diff.jpeg
+  AssetCurrentFiles:
+    7a82fc1c-fea8-4020-bb8d-129084769739: c8fd3820-7284-4db3-bc77-95879a776189/2c57befc457a320a1e68562a106b8912/Data/Diff_Medium.jpeg
+  Assets:
+    - !<FileTexture/7a82fc1c-fea8-4020-bb8d-129084769739>
+      Width: 64
+      Height: 32
+      PackagePath: ""
+  SourceHash: 2c57befc457a320a1e68562a106b8912
+  FileHash: e51f44e08fe6db7583b6b59ee68629ba

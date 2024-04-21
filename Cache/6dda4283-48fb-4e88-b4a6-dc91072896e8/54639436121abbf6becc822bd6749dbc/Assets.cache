@@ -1,0 +1,12 @@
+- !<AssetCache/6c3cc513-ada8-4460-a031-2f698deb4904>
+  AssetFiles:
+    ee9fe5f0-c67f-42d1-acad-119d576296ed: 6dda4283-48fb-4e88-b4a6-dc91072896e8/54639436121abbf6becc822bd6749dbc/Data/fire3-sprite-explosao-png.png
+  AssetCurrentFiles:
+    ee9fe5f0-c67f-42d1-acad-119d576296ed: 6dda4283-48fb-4e88-b4a6-dc91072896e8/54639436121abbf6becc822bd6749dbc/Data/fire3-sprite-explosao-png_Medium.png
+  Assets:
+    - !<FileTexture/ee9fe5f0-c67f-42d1-acad-119d576296ed>
+      Width: 959
+      Height: 1104
+      PackagePath: ""
+  SourceHash: 54639436121abbf6becc822bd6749dbc
+  FileHash: 18f64dc2937b3305523f4ae4632411b8

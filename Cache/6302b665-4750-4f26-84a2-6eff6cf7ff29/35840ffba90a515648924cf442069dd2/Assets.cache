@@ -1,0 +1,10 @@
+- !<AssetCache/4dd6ea1f-c94e-491e-aa5d-32345abc297d>
+  AssetFiles:
+    d8384135-7386-41ef-974d-77c80752040d: 6302b665-4750-4f26-84a2-6eff6cf7ff29/35840ffba90a515648924cf442069dd2/Data/pop-goes-the-weasel-chiptune1_8mRPqMgS.mp3
+  AssetCurrentFiles:
+    d8384135-7386-41ef-974d-77c80752040d: 6302b665-4750-4f26-84a2-6eff6cf7ff29/35840ffba90a515648924cf442069dd2/Data/pop-goes-the-weasel-chiptune1_8mRPqMgS.mp3
+  Assets:
+    - !<FileAudioTrack/d8384135-7386-41ef-974d-77c80752040d>
+      PackagePath: ""
+  SourceHash: 35840ffba90a515648924cf442069dd2
+  FileHash: 3891f94d04fe1d001a7cee120ced35d5

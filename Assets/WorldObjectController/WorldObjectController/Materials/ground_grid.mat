@@ -1,0 +1,103 @@
+- !<Material/f754bd06-f1b9-4c1e-ad2c-2d03cb12bb1b>
+  PassesInfo:
+    - !<own> d15eb097-9999-429f-b2cd-9422b509e9c6
+  PackagePath: ""
+- !<PassInfo/d15eb097-9999-429f-b2cd-9422b509e9c6>
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0, y: 0}
+  FrustumCulling: Auto
+  FrustumCullPad: 0
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Add
+  Properties:
+    Port_Center_N085:
+      typeIdx: 3
+      value: {x: 0.5, y: 0.5}
+    Port_Import_N025:
+      typeIdx: 1
+      value: 0.1
+    Port_Import_N028:
+      typeIdx: 1
+      value: 20
+    Port_Import_N091:
+      typeIdx: 3
+      value: {x: 1, y: 1}
+    Port_Input0_N020:
+      typeIdx: 1
+      value: 1
+    Port_Input0_N027:
+      typeIdx: 1
+      value: 2
+    Port_Input1_N015:
+      typeIdx: 3
+      value: {x: -1, y: 1}
+    Port_Input1_N021:
+      typeIdx: 1
+      value: 2
+    Port_Input1_N022:
+      typeIdx: 1
+      value: 1
+    Port_Input1_N024:
+      typeIdx: 1
+      value: -1
+    Port_Input1_N030:
+      typeIdx: 1
+      value: 3
+    Port_Input1_N033:
+      typeIdx: 1
+      value: 0.5
+    Port_Input2_N030:
+      typeIdx: 1
+      value: 50
+    Port_RangeMaxB_N039:
+      typeIdx: 1
+      value: 1
+    Port_RangeMinA_N039:
+      typeIdx: 1
+      value: 0
+    Port_RangeMinB_N039:
+      typeIdx: 1
+      value: 0
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    baseColor:
+      typeIdx: 4
+      value: {x: 1, y: 1, z: 1}
+    baseTex:
+      typeIdx: 9
+      value:
+        id: be1da305-c0db-47a6-92dd-24a787bfb513
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0, y: 0, z: 0, w: 0}
+          mipmaps: false
+    baseTexBorderColor:
+      typeIdx: 5
+      value: {x: 1, y: 1, z: 1, w: 1}
+    baseTexDims:
+      typeIdx: 5
+      value: {x: 1, y: 1, z: 1, w: 1}
+    baseTexTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1, y: 0, z: 0}
+        1: {x: 0, y: 1, z: 0}
+        2: {x: 0, y: 0, z: 1}
+    baseTexUvMinMax:
+      typeIdx: 5
+      value: {x: 1, y: 1, z: 1, w: 1}
+    uvScale:
+      typeIdx: 1
+      value: 0.005
+  Pass: !<reference> 948814dd-9b56-4629-8f88-7b63656307a5

@@ -1,0 +1,10 @@
+- !<AssetCache/c89eb42f-bde7-4f1f-8b1c-115874473c15>
+  AssetFiles:
+    98de12c7-2b14-439a-b837-075f7054b14b: 25d36b54-fc07-45fd-81ec-3b7556ac7223/941468634cb3403c55e4938587603cbe/Data/RocGrotesk.ttf
+  AssetCurrentFiles:
+    98de12c7-2b14-439a-b837-075f7054b14b: 25d36b54-fc07-45fd-81ec-3b7556ac7223/941468634cb3403c55e4938587603cbe/Data/RocGrotesk.ttf
+  Assets:
+    - !<Font/98de12c7-2b14-439a-b837-075f7054b14b>
+      PackagePath: ""
+  SourceHash: 941468634cb3403c55e4938587603cbe
+  FileHash: afb91e803b80c480ead544e1c5bb9ae3

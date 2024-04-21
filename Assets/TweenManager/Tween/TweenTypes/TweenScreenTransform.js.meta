@@ -1,0 +1,91 @@
+- !<AssetImportMetadata/439c2eb2-1d74-4a13-a37f-cbf16845d8d7>
+  ImportedAssetIds:
+    JavaScriptAsset: b55d5010-ffe7-474a-8177-20128b740be0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> b55d5010-ffe7-474a-8177-20128b740be0
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 9a98b0dc-058d-4e3a-9929-5ade1842217d
+  ImporterSettings: !<AssetImporterSettings/348ef35b-d89f-430e-89b5-67bff25c521b>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/9a98b0dc-058d-4e3a-9929-5ade1842217d>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    additive: false
+    anchorsParam: false
+    delay: false
+    easingFunction: false
+    easingType: false
+    endAnchorsBounds: false
+    endAnchorsCenter: false
+    endAnchorsSize: false
+    endOffsetsBounds: false
+    endOffsetsCenter: false
+    endOffsetsSize: false
+    endPosition: false
+    endRotation: false
+    endScale: false
+    loopType: false
+    movementType: false
+    offsetsParam: false
+    playAutomatically: false
+    sceneObject: false
+    startAnchorsBounds: false
+    startAnchorsCenter: false
+    startAnchorsSize: false
+    startOffsetsBounds: false
+    startOffsetsCenter: false
+    startOffsetsSize: false
+    startPosition: false
+    startRotation: false
+    startScale: false
+    time: false
+    tweenName: false
+    type: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - sceneObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: ""
+      playAutomatically: true
+      loopType: 0
+      type: 0
+      movementType: 0
+      anchorsParam: 0
+      offsetsParam: 0
+      startPosition: !<Vec3> {x: 0, y: 0, z: 0}
+      startScale: !<Vec3> {x: 1, y: 1, z: 1}
+      startRotation: !<float> 0
+      startAnchorsBounds: !<Vec4> {x: -1, y: 1, z: -1, w: 1}
+      startAnchorsSize: !<Vec2> {x: 1, y: 1}
+      startAnchorsCenter: !<Vec2> {x: 0, y: 0}
+      startOffsetsBounds: !<Vec4> {x: -1, y: 1, z: -1, w: 1}
+      startOffsetsSize: !<Vec2> {x: 1, y: 1}
+      startOffsetsCenter: !<Vec2> {x: 0, y: 0}
+      endPosition: !<Vec3> {x: 0, y: 0, z: 0}
+      endScale: !<Vec3> {x: 1, y: 1, z: 1}
+      endRotation: !<float> 0
+      endAnchorsBounds: !<Vec4> {x: -1, y: 1, z: -1, w: 1}
+      endAnchorsSize: !<Vec2> {x: 2, y: 2}
+      endAnchorsCenter: !<Vec2> {x: 0, y: 0}
+      endOffsetsBounds: !<Vec4> {x: -1, y: 1, z: -1, w: 1}
+      endOffsetsSize: !<Vec2> {x: 2, y: 2}
+      endOffsetsCenter: !<Vec2> {x: 0, y: 0}
+      additive: false
+      time: !<float> 1
+      delay: !<float> 0
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    -
+      {}

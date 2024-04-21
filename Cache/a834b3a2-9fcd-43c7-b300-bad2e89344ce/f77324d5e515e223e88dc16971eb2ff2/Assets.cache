@@ -1,0 +1,10 @@
+- !<AssetCache/6a8e0e03-3927-45c9-8a6a-2d3205bfa29f>
+  AssetFiles:
+    dc5f3165-a72c-49bc-90aa-a5ee5384a249: a834b3a2-9fcd-43c7-b300-bad2e89344ce/f77324d5e515e223e88dc16971eb2ff2/Data/Fontspring-DEMO-rocgrotesk-medium.otf
+  AssetCurrentFiles:
+    dc5f3165-a72c-49bc-90aa-a5ee5384a249: a834b3a2-9fcd-43c7-b300-bad2e89344ce/f77324d5e515e223e88dc16971eb2ff2/Data/Fontspring-DEMO-rocgrotesk-medium.otf
+  Assets:
+    - !<Font/dc5f3165-a72c-49bc-90aa-a5ee5384a249>
+      PackagePath: ""
+  SourceHash: f77324d5e515e223e88dc16971eb2ff2
+  FileHash: 515c9ee1567cbba022d3a252891b9c4a

@@ -1,0 +1,78 @@
+- !<AssetImportMetadata/6905cefc-8f5d-44d5-88b8-79945979fba0>
+  ImportedAssetIds:
+    JavaScriptAsset: 3f650ec8-e3a9-4a7b-a578-80f90b41f4fe
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3f650ec8-e3a9-4a7b-a578-80f90b41f4fe
+  PackageType: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> d65940f5-fbdf-4588-930c-b13fa4f7bf12
+  ImporterSettings: !<AssetImporterSettings/b046c66b-6311-4ecc-8230-6e96d8864475>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/d65940f5-fbdf-4588-930c-b13fa4f7bf12>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    LeftIndex: false
+    LeftThumb: false
+    RightIndex: false
+    RightThumb: false
+    answer: false
+    answer_text: false
+    armLeft: false
+    armRight: false
+    audioBust: false
+    audioFinal: false
+    body: false
+    boxHandle: false
+    camArm: false
+    camPlane: false
+    deviceTracking: false
+    hint: false
+    leftHandTracker: false
+    magicBox: false
+    main: false
+    objLookAt: false
+    question: false
+    question_text: false
+    rightHandTracker: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - button: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      question: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      answer_text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      question_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      main: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      body: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      answer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      question_text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      camArm: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      armLeft: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      camPlane: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      armRight: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      boxHandle: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftThumb: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftIndex: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightThumb: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightIndex: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      leftHandTracker: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      rightHandTracker: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      audioBust: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      screen2d: !<reference.ScreenTransform> 00000000-0000-0000-0000-000000000000
+      magicBox: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      deviceTracking: !<reference.DeviceTracking> 00000000-0000-0000-0000-000000000000
+      objLookAt: !<reference.ScreenTransform> 00000000-0000-0000-0000-000000000000
+      audioFinal: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

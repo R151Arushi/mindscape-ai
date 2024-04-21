@@ -1,0 +1,12 @@
+- !<AssetCache/925da7f8-0ac7-4ce2-918a-7262862e7442>
+  AssetFiles:
+    91663e5e-bee2-4ab7-8fde-0ee72dec65f3: 3896048a-2642-48ad-9c0d-3b7923d225ec/b904cb64a57fc63add8d0a33ecee8b95/Data/glow1-4.png
+  AssetCurrentFiles:
+    91663e5e-bee2-4ab7-8fde-0ee72dec65f3: 3896048a-2642-48ad-9c0d-3b7923d225ec/b904cb64a57fc63add8d0a33ecee8b95/Data/glow1-4_Medium.png
+  Assets:
+    - !<FileTexture/91663e5e-bee2-4ab7-8fde-0ee72dec65f3>
+      Width: 96
+      Height: 87
+      PackagePath: ""
+  SourceHash: b904cb64a57fc63add8d0a33ecee8b95
+  FileHash: 44b7d83b71780b8eed8a12c371befb99

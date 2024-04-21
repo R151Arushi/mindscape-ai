@@ -1,0 +1,110 @@
+- !<ObjectPrefab/f5362bea-8788-4727-8b4a-955b6773c4ce>
+  LazyLoading: false
+  RetainAssets: true
+  objects:
+    - !<own> ea1fbd0b-fa0d-4803-980f-8e9891a5b53d
+  PackagePath: ""
+- !<ScriptComponent/c97ebaaf-9c76-4ac9-9835-899e0e23a129>
+  ScriptAsset: !<reference> 21e7e5a7-c4eb-4e8f-b268-8d8000d37429
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+  Name: ChatGPT Helper
+  Enabled: true
+  PrefabRemaps:
+    []
+- !<SceneObject/ea1fbd0b-fa0d-4803-980f-8e9891a5b53d>
+  Name: ChatGPT Helper
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    - !<own> eb288d0e-1363-4270-8fcc-53e3aa8aaa6c
+  Components:
+    - !<own> c97ebaaf-9c76-4ac9-9835-899e0e23a129
+  PrefabRemaps:
+    []
+- !<SceneObject/eb288d0e-1363-4270-8fcc-53e3aa8aaa6c>
+  Name: "ChatGPT Demo [DELETE_ME]"
+  Enabled: true
+  Layer: 0
+  LocalTransform:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  Children:
+    []
+  Components:
+    - !<own> fb153926-dbe6-4bd4-b463-f3baeef5b001
+  PrefabRemaps:
+    []
+- !<ScriptComponent/fb153926-dbe6-4bd4-b463-f3baeef5b001>
+  ScriptAsset: !<reference> 3f650ec8-e3a9-4a7b-a578-80f90b41f4fe
+  ScriptInputsDefault:
+    question_text: true
+    answer_text: true
+    question: true
+    hint: true
+    main: true
+    body: true
+    answer: true
+    magicBox: true
+    camArm: true
+    camPlane: true
+    armLeft: true
+    armRight: true
+    boxHandle: true
+    LeftThumb: true
+    LeftIndex: true
+    RightThumb: true
+    RightIndex: true
+    audioBust: true
+    audioFinal: true
+    leftHandTracker: true
+    rightHandTracker: true
+    objLookAt: true
+    deviceTracking: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      question_text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      answer_text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      question: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      main: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      body: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      answer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      magicBox: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      camArm: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      camPlane: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      armLeft: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      armRight: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      boxHandle: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftThumb: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      LeftIndex: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightThumb: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      RightIndex: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      audioBust: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioFinal: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      leftHandTracker: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      rightHandTracker: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      objLookAt: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      deviceTracking: !<reference.DeviceTracking> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    "":
+      {}
+  Name: main
+  Enabled: true
+  PrefabRemaps:
+    []

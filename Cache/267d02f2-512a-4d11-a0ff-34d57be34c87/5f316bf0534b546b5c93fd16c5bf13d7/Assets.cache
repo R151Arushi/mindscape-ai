@@ -1,0 +1,10 @@
+- !<AssetCache/e413e00c-637a-4a6f-87da-f70ca9bbc20f>
+  AssetFiles:
+    a988fc63-f25b-41e3-915b-164d46336a11: 267d02f2-512a-4d11-a0ff-34d57be34c87/5f316bf0534b546b5c93fd16c5bf13d7/Data/touch_collision_cube.mesh
+  AssetCurrentFiles:
+    a988fc63-f25b-41e3-915b-164d46336a11: 267d02f2-512a-4d11-a0ff-34d57be34c87/5f316bf0534b546b5c93fd16c5bf13d7/Data/touch_collision_cube.mesh
+  Assets:
+    - !<FileMesh/a988fc63-f25b-41e3-915b-164d46336a11>
+      PackagePath: ""
+  SourceHash: 5f316bf0534b546b5c93fd16c5bf13d7
+  FileHash: 5b5f6f4cf4085d63a0cbebddc7f28b2f

@@ -1,0 +1,12 @@
+- !<AssetCache/4cf0d06d-9be0-4aac-b07f-d0884c582851>
+  AssetFiles:
+    ff4abef9-9ece-4f9e-9da5-0df2c82ebfe9: dc2f20fa-35a2-4818-b791-ed1886bc9db9/1972af4b90bed8869edbd6cc67c701a9/Data/Cube.png
+  AssetCurrentFiles:
+    ff4abef9-9ece-4f9e-9da5-0df2c82ebfe9: dc2f20fa-35a2-4818-b791-ed1886bc9db9/1972af4b90bed8869edbd6cc67c701a9/Data/Cube_Medium.png
+  Assets:
+    - !<FileTexture/ff4abef9-9ece-4f9e-9da5-0df2c82ebfe9>
+      Width: 1024
+      Height: 1024
+      PackagePath: ""
+  SourceHash: 1972af4b90bed8869edbd6cc67c701a9
+  FileHash: 37001f71f804814d478f8d2e6ede659e
